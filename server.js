@@ -1,7 +1,7 @@
 const jsonServer = require("json-server");
 const auth = require("json-server-auth");
 const cors = require("cors");
-const port = process.env.PORT || 3001;
+const port = process.env.PORT || 3333;
 const routes = require('./routes.json');
 
 const app = jsonServer.create();
