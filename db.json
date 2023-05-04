@@ -4,13 +4,71 @@
       "email": "wegreen@mail.com",
       "password": "123456",
       "name": "WeGreen",
-      "age": 25,
       "id": 1
+    },
+    {
+      "email": "marlene@mail.com",
+      "password": "$2a$10$ZH64ToQ1Uep5PONleLV8nOTUiFeH9FwwXK.aavywVmcsHvbkGS4fa",
+      "name": "Marlene do 204",
+      "id": 2
+    },
+    {
+      "email": "helio@mail.com",
+      "password": "$2a$10$LdQZmvjEchVBFS9F5.jeX.3sUgzKhOgG69Lon2ily35oo4iOpcfnO",
+      "name": "Helio do 703",
+      "id": 3
+    },
+    {
+      "email": "amanda@mail.com",
+      "password": "$2a$10$EwPeDTbdYwRoqOuOImtZD.FXeIMoqDaFu9e5DqPT7micIdSq2Dr9K",
+      "name": "Amanda Síndica",
+      "id": 4
     }
   ],
-
-  "posts": [],
-
-  "tasks": []
+  "posts": [
+    {
+      "title": "Por gentileza não jogar bituca de cigarro na horta",
+      "content": "Você sabia que, além de ser uma atitude irresponsável, já que pode causar um acidente sério, jogar bitucas de cigarro pela janela do condomínio pode resultar em multa? Em cima ha nossa horta onde a gente pega as coisas para comer, aí é muito feio. Tenham bom senso. Sabemos quem são os moradores que estão jogando, e se continuar, serão multados",
+      "userId": 2,
+      "id": 7
+    },
+    {
+      "title": "Vamos plantar gengibre!",
+      "content": "A força medicinal do gengibre é atestada pela própria Organização Mundial de Saúde (OMS), que confirma seu uso eficaz no tratamento de gripes e resfriados. Isso porque além de ser um ótimo anti-inflamatório, alivia dores de uma forma geral, fortalece o sistema imunológico e ainda é um bom antibacteriano. Por todos esses fatores, seus chás e xaropes são perfeitos no combate a tosses e catarros, sintomas apresentados até nos menores resfriados.",
+      "userId": 3,
+      "id": 8
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Aplicar solução de neem nas berinjelas",
+      "userId": 3,
+      "id": 1
+    },
+    {
+      "title": "Desligar irrigação à noite",
+      "userId": 3,
+      "id": 2
+    },
+    {
+      "title": "Aparar galhos baixos do pé de limão",
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "title": "Regar cebolinha",
+      "userId": 2,
+      "id": 4
+    },
+    {
+      "title": "comprar fertilizante",
+      "userId": 4,
+      "id": 5
+    },
+    {
+      "title": "fgkjdlfkgjdf;lk",
+      "userId": 4,
+      "id": 6
+    }
+  ]
 }
-
